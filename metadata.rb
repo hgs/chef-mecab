@@ -1,0 +1,7 @@
+name             'mecab'
+maintainer       'hgs'
+maintainer_email 'hgs@users.noreply.github.com'
+license          'MIT'
+description      'Installs/Configures mecab'
+long_description 'Installs/Configures mecab'
+version          '0.1.0'
